@@ -1,0 +1,59 @@
+h1 {
+color:#FFFFFF
+}
+
+body {
+	background-image: url("images/Megaman.jpg");
+	background-size: 100%;
+	text-align: center;
+	background-color: 0003300;
+	}
+
+.footer li {
+	float:left;
+}
+
+.footer li a{
+display:block;
+width:500px;
+height:200px;
+border:5px solid #555
+}
+
+footer {
+	position:fixed;
+	bottom:0;
+	width:100%;
+	}
+
+.footer h5 {
+	text-align:center;
+	color:#FFFFFF;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.body li {
+  float: left;
+}
+
+.body li a {
+  display: block;
+  width: 60px;
+  color: #66FF66;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: #0000FF;
+  border: 1px solid #555;
+}
+
+.body li a:hover {
+  background-color: #1111;
+}
