@@ -13,6 +13,13 @@ body {
 	float:left;
 }
 
+.fshy {
+	overflow: hidden;
+	padding-top: 50;
+	position: relative;
+
+
+}
 .footer li a{
 display:block;
 width:500px;
@@ -21,7 +28,7 @@ border:5px solid #555
 }
 
 footer {
-	position:fixed;
+	position:relative;
 	bottom:0;
 	width:100%;
 	}
