@@ -3,8 +3,9 @@ color:#FFFFFF
 }
 
 body {
-	background-image: url("images/Megaman.jpg");
-	background-size: 100%;
+//	background-image: url("images/Megaman.jpg");
+//	background-size: 100%;
+	background-color: #a1a1a1
 	text-align: center;
 	background-color: 0003300;
 	}
@@ -64,3 +65,4 @@ ul {
 .body li a:hover {
   background-color: #1111;
 }
+8260170560429838
